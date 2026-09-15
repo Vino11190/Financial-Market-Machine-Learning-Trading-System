@@ -385,14 +385,17 @@ financial-market-ml-trading-system/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <Vino11190/Financial-Market-Machine-Learning-Trading-System.git>
 cd financial-market-ml-trading-system
 ```
 
 Install the required Python packages:
 
 ```bash
+git clone YOUR-ACTUAL-GITHUB-REPOSITORY-URL
+cd financial-market-ml-trading-system
 pip install -r requirements.txt
+jupyter notebook
 ```
 
 Launch Jupyter:
